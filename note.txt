@@ -1,0 +1,5 @@
+Yang perlu disiapkan :
+1. Install Express (npm i express)
+2. Install Body-Parser (npm i body-parser)
+
+Cara menjalankan : node / nodemon index.js
